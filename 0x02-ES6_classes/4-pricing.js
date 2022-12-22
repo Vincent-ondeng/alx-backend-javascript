@@ -1,4 +1,3 @@
-
 export default class Pricing {
   constructor(amount, currency) {
     this.amount = amount;
